@@ -1,0 +1,23 @@
+#Graphics
+
+Sprites and Tilesets => gfx.zip by ArMM1998 (CC0)
+https://opengameart.org/content/zelda-like-tilesets-and-sprites
+
+menu_background.png => nature mountain game background for gamedevs.zip by bevouliin.com (CC0)
+https://opengameart.org/content/bevouliin-free-nature-game-background-for-gamedevs
+
+
+#Audio
+
+m_menu.mp3 => YouOnlyGetOneBeat(1).mp3  by BossLevelVGM (CCBY 3.0)
+https://opengameart.org/content/hoverwhip
+
+m_game.mp3 => AmberForest.mp3 by TAD (CCBY 3.0)
+https://opengameart.org/content/amber-forest
+
+
+#Fonts
+
+Enchanted Land.otf => Enchanted Land.otf by Dennis Ludlow
+https://www.dafont.com/es/enchanted-land.font#null
+
