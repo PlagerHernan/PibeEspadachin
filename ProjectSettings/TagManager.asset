@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CM
+  - Thing
+  - Attack
+  - Enemy
+  - Limit
   layers:
   - Default
   - TransparentFX
@@ -40,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackThing
+    uniqueID: 3980436125
+    locked: 0
+  - name: Thing
+    uniqueID: 3532626099
+    locked: 0
+  - name: FrontThing
+    uniqueID: 1749027349
     locked: 0
